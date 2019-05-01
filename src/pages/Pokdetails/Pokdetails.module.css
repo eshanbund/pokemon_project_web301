@@ -1,0 +1,103 @@
+.details {
+    padding: 0px, 0px;
+    width: 400px;
+
+   margin:  auto;
+   position: absolute;
+   top:80px;
+   bottom: 0;
+   left: 0;
+   right: 0;
+
+
+}
+
+
+
+.CardActions h2 {
+    font-size: 1rem;  
+    /* background-color: rgb(248, 212, 10); */
+    width: 100%
+}
+
+.Card h3 {
+    margin: 0px;
+    padding: 5px;
+    font-size: 2rem;  
+    background-color: rgb(248, 212, 10);
+    text-align:center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+}
+
+
+.Card   h4  {
+    background-color: rgb(234, 236, 213);
+    border-color: blue;
+    border-style: double;
+    border: 10px;
+    width: 100%;
+    height: '100px';
+    vertical-align: middle;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+}
+
+
+.imgbx  {
+    background-color: rgb(234, 236, 213);
+    border-color: blue;
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+
+.Card img {
+    width: 25%;
+    height: auto;
+    vertical-align: top;
+}
+
+.post Button {
+    font-size: 8px;  
+    background-color: rgb(136, 10, 84);
+    width: 100px ;
+    height: 16px ;
+}
+
+.Card {
+    margin :2px 2px 2px 2px; 
+    border-radius: 20px;
+ width:100%;
+    box-sizing: border-box;
+    text-align: left;
+    /* height: 90px ; */
+    height: 460px;
+    border-color: blue;
+   border-style: double;
+       /* background-color: rgb(128, 120, 197); */
+  
+
+
+}
+.CardContent {
+    font-size: 10px;  
+  
+    /* height: 40px ; */
+    margin: 0,0,0,0;
+    text-align: left;
+    height: 460px;
+    background-color: rgb(234, 236, 213);
+}
+
+
+
+.CardActions {
+    text-align: center;
+    margin :0px 0px 0px 0px; 
+    background-color: rgb(197, 148, 120);
+    /* height: 14px ; */
+
+}

@@ -1,0 +1,35 @@
+.app {
+  
+}
+
+.app .header {
+    background: hotpink;
+    color: #fff;
+    position: relative;
+    height: 70px;
+}
+
+.app .header h1 {
+    margin: 0;
+    padding-left: 10px;
+    position: absolute;
+    line-height: 70px;
+}
+
+.app .header nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
+
+.app .header nav ul li {
+    display: inline-block;
+}
+
+.app .header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 10px;
+    line-height: 70px;
+}
